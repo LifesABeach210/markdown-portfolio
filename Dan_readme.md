@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<img src=""C:\Users\User\OneDrive\Pictures\Camera Roll\WIN_20220120_16_55_16_Pro.jpg"" alt="dans_photo">
+<img src="C:\Users\User\OneDrive\Pictures\Camera Roll\WIN_20220120_16_55_16_Pro.jpg" alt="dans_photo">
 <a href="https://www.facebook.com/dan.rothwell.5">facebook</a>
 <ul>
 
